@@ -1,4 +1,4 @@
-def bubbleSort(arr):
+def sort(arr):
     n = len(arr)
   
     # Traverse through all array elements
@@ -16,5 +16,5 @@ def bubbleSort(arr):
 
 ar = [64, 34, 25, 12, 22, 11, 90]
 print(ar)
-bubbleSort(ar)
+sort(ar)
 print(ar)
