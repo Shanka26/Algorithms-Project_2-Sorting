@@ -48,9 +48,9 @@ def quick_sort(start, end, array):
 def sort(arr):
     quick_sort(0, len(arr) - 1, arr)
 
-ar = [ 10, 7, 8, 9, 1, 5,7,9,3,5,7 ]
-print(ar)
-sort(ar)
-print(ar)
+#ar = [ 10, 7, 8, 9, 1, 5,7,9,3,5,7 ]
+#print(ar)
+#sort(ar)
+#print(ar)
      
 # This code is contributed by Adnan Aliakbar

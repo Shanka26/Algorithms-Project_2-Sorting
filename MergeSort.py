@@ -38,7 +38,7 @@ def sort(arr):
             j += 1
             k += 1
 
-ar=[9,2,6,8,2,5,4,7,1,4,8,4,5]
-print(ar)
-sort(ar)
-print(ar)
+#ar=[9,2,6,8,2,5,4,7,1,4,8,4,5]
+#print(ar)
+#sort(ar)
+#print(ar)

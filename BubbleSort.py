@@ -14,7 +14,7 @@ def sort(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
   
 
-ar = [64, 34, 25, 12, 22, 11, 90]
-print(ar)
-sort(ar)
-print(ar)
+#ar = [64, 34, 25, 12, 22, 11, 90]
+#print(ar)
+#sort(ar)
+#print(ar)
