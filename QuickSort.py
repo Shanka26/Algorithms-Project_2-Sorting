@@ -1,12 +1,16 @@
+
+import sys
 def partition(start, end, array):
      
-    # Initializing pivot's index to start
-    pivot_index = start
+    # Initializing pivot's index to to the median of start and end
+    pivot_index = int((start+end)/2)
+    # print(pivot_index)
     pivot = array[pivot_index]
      
     # This loop runs till start pointer crosses
     # end pointer, and when it does we swap the
     # pivot with element on end pointer
+    
     while start < end:
          
         # Increment the start pointer till it finds an
