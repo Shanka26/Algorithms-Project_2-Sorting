@@ -1,0 +1,158 @@
+----------------Testing BubbleSort----------------
+
+Timing sort on ordered data of size 10:
+Sort executed in 1.86000000000075e-05 seconds. 
+
+Timing sort on semi-ordered data of size 10:
+Sort executed in 2.140000000000475e-05 seconds. 
+
+Timing sort on random data of size 10:
+Sort executed in 3.0000000000002247e-05 seconds. 
+
+Timing sort on ordered data of size 100:
+Sort executed in 0.0004897000000000096 seconds. 
+
+Timing sort on semi-ordered data of size 100:
+Sort executed in 0.0005917000000000006 seconds. 
+
+Timing sort on random data of size 100:
+Sort executed in 0.0006603000000000026 seconds. 
+
+Timing sort on ordered data of size 1000:
+Sort executed in 0.04000229999999999 seconds. 
+
+Timing sort on semi-ordered data of size 1000:
+Sort executed in 0.09445610000000002 seconds. 
+
+Timing sort on random data of size 1000:
+Sort executed in 0.0728297 seconds. 
+
+Timing sort on ordered data of size 10000:
+Sort executed in 4.056685 seconds. 
+
+Timing sort on semi-ordered data of size 10000:
+Sort executed in 8.728587300000001 seconds. 
+
+Timing sort on random data of size 10000:
+Sort executed in 7.442865399999999 seconds. 
+
+Timing sort on ordered data of size 100000:
+Sort executed in 415.1267191 seconds. 
+
+Timing sort on semi-ordered data of size 100000:
+Sort executed in 807.1908581 seconds. 
+
+Timing sort on random data of size 100000:
+Sort executed in 857.9239458999998 seconds. 
+
+----------------Testing MergeSort----------------
+
+Timing sort on ordered data of size 10:
+Sort executed in 0.00011769999999700076 seconds. 
+
+Timing sort on semi-ordered data of size 10:
+Sort executed in 8.189999999785869e-05 seconds. 
+
+Timing sort on random data of size 10:
+Sort executed in 9.190000000103282e-05 seconds. 
+
+Timing sort on ordered data of size 100:
+Sort executed in 0.0010097000000008904 seconds. 
+
+Timing sort on semi-ordered data of size 100:
+Sort executed in 0.0010727999999993187 seconds. 
+
+Timing sort on random data of size 100:
+Sort executed in 0.0010923999999974399 seconds. 
+
+Timing sort on ordered data of size 1000:
+Sort executed in 0.010926200000000108 seconds. 
+
+Timing sort on semi-ordered data of size 1000:
+Sort executed in 0.009394700000001421 seconds. 
+
+Timing sort on random data of size 1000:
+Sort executed in 0.008774100000000118 seconds. 
+
+Timing sort on ordered data of size 10000:
+Sort executed in 0.09803410000000312 seconds. 
+
+Timing sort on semi-ordered data of size 10000:
+Sort executed in 0.10850830000000045 seconds. 
+
+Timing sort on random data of size 10000:
+Sort executed in 0.11263319999999766 seconds. 
+
+Timing sort on ordered data of size 100000:
+Sort executed in 1.1913924999999992 seconds. 
+
+Timing sort on semi-ordered data of size 100000:
+Sort executed in 1.3259747999999973 seconds. 
+
+Timing sort on random data of size 100000:
+Sort executed in 1.4223168999999984 seconds. 
+
+Timing sort on ordered data of size 1000000:
+Sort executed in 14.6887501 seconds. 
+
+Timing sort on semi-ordered data of size 1000000:
+Sort executed in 17.496735599999994 seconds. 
+
+Timing sort on random data of size 1000000:
+Sort executed in 18.46339989999999 seconds. 
+
+----------------Testing TimSort----------------
+
+Timing sort on ordered data of size 10:
+Sort executed in 0.00012179999998807034 seconds. 
+
+Timing sort on semi-ordered data of size 10:
+Sort executed in 3.42000000017606e-05 seconds. 
+
+Timing sort on random data of size 10:
+Sort executed in 2.870000000143591e-05 seconds. 
+
+Timing sort on ordered data of size 100:
+Sort executed in 0.0002958999999975731 seconds. 
+
+Timing sort on semi-ordered data of size 100:
+Sort executed in 0.0007157999999947151 seconds. 
+
+Timing sort on random data of size 100:
+Sort executed in 0.0007128000000022894 seconds. 
+
+Timing sort on ordered data of size 1000:
+Sort executed in 0.009671999999994796 seconds. 
+
+Timing sort on semi-ordered data of size 1000:
+Sort executed in 0.012329399999998714 seconds. 
+
+Timing sort on random data of size 1000:
+Sort executed in 0.012096599999992463 seconds. 
+
+Timing sort on ordered data of size 10000:
+Sort executed in 0.09302780000000155 seconds. 
+
+Timing sort on semi-ordered data of size 10000:
+Sort executed in 0.09766090000000816 seconds. 
+
+Timing sort on random data of size 10000:
+Sort executed in 0.1316506000000004 seconds. 
+
+Timing sort on ordered data of size 100000:
+Sort executed in 1.0218349999999958 seconds. 
+
+Timing sort on semi-ordered data of size 100000:
+Sort executed in 1.364440700000003 seconds. 
+
+Timing sort on random data of size 100000:
+Sort executed in 1.5482011 seconds. 
+
+Timing sort on ordered data of size 1000000:
+Sort executed in 13.223185200000003 seconds. 
+
+Timing sort on semi-ordered data of size 1000000:
+Sort executed in 15.368317200000007 seconds. 
+
+Timing sort on random data of size 1000000:
+Sort executed in 19.093369699999997 seconds. 
